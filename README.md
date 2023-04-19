@@ -15,3 +15,7 @@
 [virtualDOM](./react/virtualDOM.md)
 
 [LifeCycle](./react/lifeCycle.md)
+
+[setState](./react/setState.md)
+
+[배열과 key prop](./react/ArrayAndkeyProp.md)
