@@ -10,6 +10,8 @@
 
 [실행 컨텍스트](./javascript//executionContext.md)
 
+[비동기 방식과 Ajax](./javascript/asynchronousAndAjax.md)
+
 ## 🚀 React
 
 [virtualDOM](./react/virtualDOM.md)
