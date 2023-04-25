@@ -4,6 +4,10 @@
 
 각 인덱스를 클릭하여 상세 내용 확인
 
+## 💻 CS
+
+[CORS](./cs/cors.md)
+
 ## 🚩 Javascript
 
 [이벤트](./javascript/event.md)
