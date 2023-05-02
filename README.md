@@ -18,6 +18,8 @@
 
 [비동기 방식과 Ajax](./javascript/asynchronousAndAjax.md)
 
+[프로미스](./javascript/promise.md)
+
 ## 🚀 React
 
 [virtualDOM](./react/virtualDOM.md)
