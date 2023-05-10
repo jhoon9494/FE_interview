@@ -6,11 +6,15 @@ REST API는 `HTTP 프로토콜`을 기반으로 동작하며, `URI`로 **리소�
 
 또한, REST 아키텍쳐 스타일에 따라 API를 구현한 것을 **RESTful API**라고 한다.
 
+<br />
+
 ## REST API 구성
 
 1. 자원: HTTP URI를 이용
 2. 자원에 대한 행위: HTTP 메소드를 이용
 3. 자원에 대한 행위의 내용: payload를 이용
+
+<br />
 
 ## HTTP 메소드에 대해 설명해주세요.
 
