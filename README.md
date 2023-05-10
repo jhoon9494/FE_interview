@@ -10,6 +10,10 @@
 
 [REST API](./cs/restAPI.md)
 
+[CSR, SSR](./cs/rendering.md)
+
+[동기, 비동기, Blocking, Non-Blocking](./cs/Async%2CSync%2CBlocking%2CNon-Blocking.md)
+
 ## 🚩 Javascript
 
 [이벤트](./javascript/event.md)
